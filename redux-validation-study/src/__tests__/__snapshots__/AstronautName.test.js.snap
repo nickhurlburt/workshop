@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AstronautName renders as planned 1`] = `
+<div>
+  <label
+    htmlFor="name"
+  >
+    Name
+  </label>
+  <input
+    onBlur={[MockFunction]}
+    onChange={[Function]}
+    type="text"
+    value="name"
+  />
+</div>
+`;
